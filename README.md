@@ -18,11 +18,6 @@ Here are some screenshots of the project to give you an idea of its features and
 ###### Select Template Page
 ![Select Template](https://user-images.githubusercontent.com/87645745/213860462-ea8bd7db-2c15-4633-9894-113f047cc13b.png)
 
-###### Resume Builder Page
-![Resume Building](https://user-images.githubusercontent.com/87645745/213860488-d6215b7a-507e-40ff-b42b-a901cca3d0b9.png)
-
-###### About Page
-![About Page](https://user-images.githubusercontent.com/87645745/213860448-cefcc6f0-8d58-4ce6-8d94-1f5c4271f87f.png)
 
 ###### Dark Mode
 ![Dark Mode](https://user-images.githubusercontent.com/87645745/213860517-73a40b9c-dd35-4586-a253-757c654f19c7.png)
@@ -32,11 +27,11 @@ Here are some screenshots of the project to give you an idea of its features and
 ## Getting Started
 1. Clone this repository to your local machine
 ```bash
-git clone https://github.com/imhardikdesai/Resume-Builder.git
+git clone https://github.com/ouiame20/Resumer_Builder_Final_Project.git
 ```
 2. Navigate to the project directory
 ```bash
-cd resume-builder
+cd Resumer_Builder_Final_Project
 ```
 3. Install dependencies
 ```bash
@@ -57,13 +52,6 @@ npm run start
 - [React HTML to PDF](https://www.npmjs.com/package/react-html-to-pdf)
 
 ### Authors
-- [Hardik Desai](http://hardikdesai.tech/)
+- [Ouaime Mouzoune](github.com/ouiame20)
 
-### Contributions
-- We welcome contributions to our website. If you would like to contribute, please submit a pull request on our Github repository.
 
-### License
- - This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
-
-### Acknowledgments
-- We would like to thank our users for their support and feedback in making this website a success.
